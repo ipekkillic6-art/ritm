@@ -36,6 +36,12 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+example
+
 # generated native folders
 /ios
 /android
+
+# yerel calisma klasorleri
+.idea/
+newApp/
